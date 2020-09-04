@@ -8,11 +8,11 @@ IGNORE THE WARNINGS SHOWN IN THE BROWSER CONSOLE,
 OR to remove the warnings completely, follow the below steps:
   - Open command prompt/terminal and navigate to the folder containing the web app files.
   - Run the following command:
-      '''
+      ```
       python -m http.server
-      '''
+      ```
   - Open browser and navigate to:
-      '''
+      ```
       http://localhost:8000
-      '''
+      ```
   - Open the .html file nad enjoy!
