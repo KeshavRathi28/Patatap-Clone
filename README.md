@@ -1,7 +1,7 @@
 # Patatap-Clone
 Basic clone of the famous visual sound kit application 'Patatap'
 
-  Each key corresponsing to a alphabet is mapped with a sound and colour, unique to the key.
+  Each key corresponding to a alphabet is mapped with a sound and colour, unique to the key.
   On pressing the key, a circle of fixed radius appears randomly on the screen.
   
 IGNORE THE WARNINGS SHOWN IN THE BROWSER CONSOLE,
