@@ -15,4 +15,4 @@ OR to remove the warnings completely, follow the below steps:
       ```
       http://localhost:8000
       ```
-  - Open the .html file nad enjoy!
+  - Open the .html file and enjoy!
